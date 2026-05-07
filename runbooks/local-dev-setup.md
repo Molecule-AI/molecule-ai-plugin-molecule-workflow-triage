@@ -22,7 +22,7 @@ step.
 ## Step 1 — Clone
 
 ```bash
-git clone https://github.com/Molecule-AI/molecule-ai-plugin-github-app-auth.git
+git clone https://git.moleculesai.app/molecule-ai/molecule-ai-plugin-github-app-auth.git
 cd molecule-ai-plugin-github-app-auth
 ```
 

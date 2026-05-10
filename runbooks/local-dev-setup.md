@@ -1,9 +1,7 @@
-# Runbook: Local Development Setup — github-app-auth Plugin
+# Runbook: Local Development Setup — workflow-triage Plugin
 
 This runbook covers setting up a local development environment for the
-`github-app-auth` plugin (GitHub App installation-token injection). It is a Go
-plugin, not a standard molecule plugin — there is no Python validate-plugin.py
-step.
+`workflow-triage` plugin (PR triage + issue pickup via `/triage` slash command).
 
 ---
 
@@ -22,8 +20,8 @@ step.
 ## Step 1 — Clone
 
 ```bash
-git clone https://git.moleculesai.app/molecule-ai/molecule-ai-plugin-github-app-auth.git
-cd molecule-ai-plugin-github-app-auth
+git clone https://git.moleculesai.app/molecule-ai/molecule-ai-plugin-molecule-workflow-triage.git
+cd molecule-ai-plugin-molecule-workflow-triage
 ```
 
 ---
